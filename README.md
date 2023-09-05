@@ -30,7 +30,7 @@ jedrzejdabrowski.jd@gmail.com
 
 ## License
 
-[MIT](https://github.com/GraphBase-Core/graphql2typescript/blob/main/LICENSE.md) 🕊
+[MIT](https://github.com/GraphBase-Core/graphql2typescript/blob/main/LICENSE) 🕊
 
 ## Contribute
 
